@@ -60,3 +60,5 @@ public class Racing
         System.out.println("Goodbye!");
     }
 }
+
+// Please consider extending Truck/Van/SportCar classes from Automobile, Uyen.
